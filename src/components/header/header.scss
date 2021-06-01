@@ -2,4 +2,23 @@
   height: 80px;
   background-color: cornflowerblue;
   width: 100%;
+  padding: 10px;
+  justify-content: space-between;
+  color: white;
+  display: flex;
+
+  .menu__title{
+
+  }
+
+  .menu__login{
+    color: white;
+    line-height: 20px;
+    text-transform: uppercase;
+    width: 80px;
+    height: 60px;
+    border: none;
+    background-color: cornflowerblue;
+    cursor: pointer;
+  }
 }
